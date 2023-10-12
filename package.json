@@ -1,0 +1,14 @@
+{
+  "name": "url-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "urlparser.js",
+  "scripts": {
+    "test": "jest --config ./jest.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
